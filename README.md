@@ -1,0 +1,1 @@
+I wanted to create a Pacman-type console game in 2023, but unfortunately, I wasn't able to finish the project due to a bunch of tasks stacked up at Uni. I hope one day I will have the time, and motivation to finish this project.
